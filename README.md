@@ -13,5 +13,5 @@ El problema de adoquinamiento implica cubrir una superficie de $n \times n$ (don
 + Kevin Antonio Carvajal / 319160242
 
 ## Ejecución
-+ Navegue a la carpeta donde se encuentra el archivo main.py
++ Navegue y entre a la carpeta donde se encuentra el archivo main.py
 + Ejemplo de ejecución: python main.py 3
